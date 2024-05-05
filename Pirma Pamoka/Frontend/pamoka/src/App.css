@@ -57,7 +57,7 @@ button:hover::after {
 }
 
 button:hover::before {
-  transform: rotate(-180deg);
+  transform: rotate(-360deg);
 }
 
 button:active::before {
